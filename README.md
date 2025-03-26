@@ -4,6 +4,7 @@
 The most commonly used Excel shortcuts that can significantly enhance your efficiency and streamline your analytics process in just a few days. Mastering these shortcuts will enable quicker data manipulation, analysis, and reporting, ultimately improving productivity and simplifying complex tasks.
 
 # View the PDF
+![Certificate](1.png)
 [Excel Shortcut file link](https://github.com/rsturka/Excel-Daily-shortcut-need/blob/main/Excel%20CheatSheet.pdf)
 
 ### How to Fork This Repository
